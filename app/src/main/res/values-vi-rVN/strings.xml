@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animal</string>
+    <string name="please_allow_this_permission">Vui lòng cho phép các quyền này để sử dụng các tính năng của ứng dụng</string>
+    <string name="number_lready_exists" translatable="false">Số điện thoại đã tồn tại, hãy nhập số khác!</string>
+</resources>
